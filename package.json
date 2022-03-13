@@ -1,0 +1,20 @@
+{
+  "name": "appstore-reviews-scraper",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Osher Atias",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": {
+    "type": "ISC",
+    "url": "https://spdx.org/licenses/ISC.html"
+  },
+  "dependencies": {
+    "bl": "^4.0.2",
+    "excel4node": "^1.7.2",
+    "xml2js-parser": "^1.1.1"
+  }
+}
